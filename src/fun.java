@@ -4,5 +4,7 @@ public class fun {
 
         System.out.println("do you like java?");
 
+        System.out.println("I think I like java");
+
     }
 }
